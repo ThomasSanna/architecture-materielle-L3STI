@@ -1,0 +1,19 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'aux_files/rapport.blg'
+[314] biber-MSWIN64:340> INFO - === 
+[403] Biber.pm:419> INFO - Reading 'aux_files/rapport.bcf'
+[605] Biber.pm:979> INFO - Found 6 citekeys in bib section 0
+[626] Biber.pm:4419> INFO - Processing section 0
+[645] Biber.pm:4610> INFO - Looking for bibtex file 'bibliographie.bib' for section 0
+[718] bibtex.pm:1713> INFO - LaTeX decoding ...
+[729] bibtex.pm:1519> INFO - Found BibTeX data source 'bibliographie.bib'
+[833] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[833] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[833] Biber.pm:4239> INFO - Sorting list 'anyt/global//global/global' of type 'entry' with template 'anyt' and locale 'fr-FR'
+[833] Biber.pm:4245> INFO - No sort tailoring available for locale 'fr-FR'
+[854] bbl.pm:660> INFO - Writing 'aux_files/rapport.bbl' with encoding 'UTF-8'
+[858] bbl.pm:763> INFO - Output to aux_files/rapport.bbl
+[859] Biber.pm:131> WARN - misc entry '4' (bibliographie.bib): Invalid format '2024/04/16' of date field 'date' - ignoring
+[859] Biber.pm:131> WARN - misc entry '5' (bibliographie.bib): Invalid format 'Uploadé en 2016' of date field 'date' - ignoring
+[859] Biber.pm:131> WARN - misc entry '6' (bibliographie.bib): Invalid format '2023/09/27' of date field 'date' - ignoring
+[859] Biber.pm:133> INFO - WARNINGS: 3

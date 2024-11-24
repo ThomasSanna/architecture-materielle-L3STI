@@ -33,3 +33,8 @@ _start:
     mov rax, 60         ; Code de l'appel système pour 'exit' (60)
     xor rdi, rdi        ; Code de retour (0 signifie succès)
     syscall             ; Effectuer l'appel système 'exit(0)'
+
+; Pour assembler et exécuter ce programme, utilisez les commandes suivantes:
+; nasm -f elf64 lec.asm -o lec.o
+; ld lec.o -o lec
+; ./lec

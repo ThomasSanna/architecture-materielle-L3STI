@@ -1,7 +1,7 @@
 bits 64
 
 section .data
-message db "Hello, World!", 10  ; Declare une chaîne de caracteres avec un saut de ligne a la fin
+message db "Hello, World!", 10  ; Declare une chaîne de caracteres avec un saut de ligne a la fin (10 en ASCII)
 number db 42                    ; Declare un octet (8 bits) avec la valeur 42
 mot dw 1234                    ; Declare un mot (16 bits) avec la valeur 1234
 dmot dd 12345678               ; Declare un double mot (32 bits) avec la valeur 12345678

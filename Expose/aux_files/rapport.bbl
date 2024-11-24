@@ -1,0 +1,201 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{anyt/global//global/global}
+    \entry{1}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f171c6d053faf7fe9d48846d445fd399}{%
+           family={CoursTechInfo},
+           familyi={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f171c6d053faf7fe9d48846d445fd399}
+      \strng{fullhash}{f171c6d053faf7fe9d48846d445fd399}
+      \strng{bibnamehash}{f171c6d053faf7fe9d48846d445fd399}
+      \strng{authorbibnamehash}{f171c6d053faf7fe9d48846d445fd399}
+      \strng{authornamehash}{f171c6d053faf7fe9d48846d445fd399}
+      \strng{authorfullhash}{f171c6d053faf7fe9d48846d445fd399}
+      \field{labelalpha}{Cou}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction au Langage Assembleur}
+      \verb{urlraw}
+      \verb https://courstechinfo.be/Programmation/IntroASM.html
+      \endverb
+      \verb{url}
+      \verb https://courstechinfo.be/Programmation/IntroASM.html
+      \endverb
+    \endentry
+    \entry{6}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ce9ff99c6baa87605ce539910a40cee8}{%
+           family={EmbeddedWala},
+           familyi={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce9ff99c6baa87605ce539910a40cee8}
+      \strng{fullhash}{ce9ff99c6baa87605ce539910a40cee8}
+      \strng{bibnamehash}{ce9ff99c6baa87605ce539910a40cee8}
+      \strng{authorbibnamehash}{ce9ff99c6baa87605ce539910a40cee8}
+      \strng{authornamehash}{ce9ff99c6baa87605ce539910a40cee8}
+      \strng{authorfullhash}{ce9ff99c6baa87605ce539910a40cee8}
+      \field{labelalpha}{Emb}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Harvard vs Von Neumann Architecture}
+      \verb{urlraw}
+      \verb https://embeddedwala.com/Blogs/embeddedsystem/harvard-vs-von-neumann-architecture
+      \endverb
+      \verb{url}
+      \verb https://embeddedwala.com/Blogs/embeddedsystem/harvard-vs-von-neumann-architecture
+      \endverb
+      \warn{\item misc entry '6' (bibliographie.bib): Invalid format '2023/09/27' of date field 'date' - ignoring}
+    \endentry
+    \entry{5}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7adef16b810e4dda6df2a929a5b4a09c}{%
+           family={MacKenty},
+           familyi={M\bibinitperiod},
+           given={Mr.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \strng{fullhash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \strng{bibnamehash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \strng{authorbibnamehash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \strng{authornamehash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \strng{authorfullhash}{7adef16b810e4dda6df2a929a5b4a09c}
+      \field{labelalpha}{Mac}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Architecture of the central processing unit}
+      \verb{urlraw}
+      \verb https://computersciencewiki.org/index.php/Architecture_of_the_central_processing_unit_%28CPU%29
+      \endverb
+      \verb{url}
+      \verb https://computersciencewiki.org/index.php/Architecture_of_the_central_processing_unit_%28CPU%29
+      \endverb
+      \warn{\item misc entry '5' (bibliographie.bib): Invalid format 'Uploadé en 2016' of date field 'date' - ignoring}
+    \endentry
+    \entry{2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1ecee63a9a6161e59d4fbc1068ac3130}{%
+           family={Mika56},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \strng{fullhash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \strng{bibnamehash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \strng{authorbibnamehash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \strng{authornamehash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \strng{authorfullhash}{1ecee63a9a6161e59d4fbc1068ac3130}
+      \field{labelalpha}{Mik13}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{13}
+      \field{month}{2}
+      \field{title}{CheatSheet ASM 8086}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cheatography.com/mika56/cheat-sheets/asm-8086/
+      \endverb
+      \verb{url}
+      \verb https://cheatography.com/mika56/cheat-sheets/asm-8086/
+      \endverb
+    \endentry
+    \entry{4}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ebef645d8c1dafcd640fb78dca34abe6}{%
+           family={Tutorials},
+           familyi={T\bibinitperiod},
+           given={IT},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \strng{fullhash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \strng{bibnamehash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \strng{authorbibnamehash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \strng{authornamehash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \strng{authorfullhash}{ebef645d8c1dafcd640fb78dca34abe6}
+      \field{labelalpha}{Tut}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Python vs C/C++ vs Assembly side-by-side comparison}
+      \verb{urlraw}
+      \verb https://www.youtube.com/watch?v=c-6SfKWmH0k
+      \endverb
+      \verb{url}
+      \verb https://www.youtube.com/watch?v=c-6SfKWmH0k
+      \endverb
+      \warn{\item misc entry '4' (bibliographie.bib): Invalid format '2024/04/16' of date field 'date' - ignoring}
+    \endentry
+    \entry{3}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7bfd972768e443986df39ee11070dfa5}{%
+           family={Valsorda},
+           familyi={V\bibinitperiod},
+           given={Filippo},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7bfd972768e443986df39ee11070dfa5}
+      \strng{fullhash}{7bfd972768e443986df39ee11070dfa5}
+      \strng{bibnamehash}{7bfd972768e443986df39ee11070dfa5}
+      \strng{authorbibnamehash}{7bfd972768e443986df39ee11070dfa5}
+      \strng{authornamehash}{7bfd972768e443986df39ee11070dfa5}
+      \strng{authorfullhash}{7bfd972768e443986df39ee11070dfa5}
+      \field{labelalpha}{Val13}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Searchable Linux Syscall Table}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://filippo.io/linux-syscall-table/
+      \endverb
+      \verb{url}
+      \verb https://filippo.io/linux-syscall-table/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
